@@ -9,7 +9,7 @@ themesDir = "../.."
 
 # website title
 # 网站标题
-title = "LoveIt"
+title = "Lucia Cai"
 
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
 # 设置默认的语言 ["en", "zh-cn", "fr", "pl", ...]
@@ -288,7 +288,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # 主页的社交信息设置
   [params.social]
     GitHub = ""
-    Linkedin = ""
+    Linkedin = "www.linkedin.com/in/luciacai"
     Twitter = ""
     Instagram = ""
     Facebook = ""
@@ -957,7 +957,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           gravatarEmail = ""
           avatarURL = "/images/avatar.png"
           title = ""
-          subtitle = "一个简洁、优雅且高效的 Hugo 主题"
+          subtitle = ""
           typeit = true
           social = true
           disclaimer = ""
